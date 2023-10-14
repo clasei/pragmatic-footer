@@ -27,6 +27,15 @@ footer span {
     margin: 0 10px;
 }
 
+#currentYear {
+    margin-right: 1px;
+}
+
+#rocketIcon {
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
 @media only screen and (max-width: 768px) {
     #footer {
         position: fixed; 
