@@ -4,8 +4,7 @@ This is a pragmatic footer.
 
 ![Preview](images/pragmatic-footer-screenshot-1.png)
 
-## 👉🏽 [Try It](https://clasei.github.io/pragmatic-footer/)
-- Check out the footer in action.
+## 👉🏽 [Try It](https://clasei.github.io/pragmatic-footer/) - Check out the footer in action.
 
 ## Usage
 
