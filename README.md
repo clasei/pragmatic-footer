@@ -4,6 +4,8 @@ This is a pragmatic footer.
 
 ![Preview](images/pragmatic-footer-screenshot-1.png)
 
+**[Try It](https://clasei.github.io/pragmatic-footer/)** - Check out the footer in action.
+
 ## Usage
 
 1. Include the `styles.css` in your HTML
