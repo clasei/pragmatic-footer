@@ -1,3 +1,12 @@
+body {
+    margin: 0;
+    padding: 0
+}
+
+body {
+    overflow-x: hidden;
+}
+
 #footer {
     font-family: 'Roboto Mono', monospace;
     color: darkslategrey;
@@ -14,7 +23,7 @@
 footer a {
     text-decoration: none;
     color: rgb(92, 97, 255);
-    margin: 0 7px;
+    margin: 1px 5px;
     transition: color 0.5s;
 }
 
